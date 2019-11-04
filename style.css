@@ -1,0 +1,49 @@
+
+body {
+    font-weight: normal;
+    background-color: #d2fafb;
+    text-align: center;
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+h1 {
+    color: #51dacf;
+}
+
+h2 {
+    color: #51dacf;
+}
+
+.polar-bear {
+    height: 300px;
+    width: 300px;
+    opacity: 0.7;
+    border-radius: 50%;
+    margin: 30px auto 30px;
+}
+
+.facts {
+    margin: 30px 30px 30px;
+    text-align: right;
+}
+
+hr {
+    color: #41aaa8;
+    text-decoration-style: dashed;
+}
+
+footer {
+    margin: 100px auto 100px auto;
+    width: 33%;
+}
+
+.learn-more {
+    color:#000000;
+    text-decoration: none;
+}
+
+.learn-more:hover{
+    color: #3f72af;
+    text-decoration: none;
+}
